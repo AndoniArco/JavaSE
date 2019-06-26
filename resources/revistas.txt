@@ -1,0 +1,3 @@
+Revista [titulo=2345678, isbn=1234567890, numPags=1234, digital=false]
+Revista [titulo=ewrxtctyvubnj, isbn=3456789012, numPags=554, digital=false]
+Revista [titulo=asdfghjk, isbn=0987654321, numPags=22, digital=true]
